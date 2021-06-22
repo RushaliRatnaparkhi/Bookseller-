@@ -1,1 +1,7 @@
 # Bookseller-
+A bestseller is a book or other media noted for its top selling status, with bestseller lists published by newspapers, magazines, and book store chains. Some lists are broken down into classifications and specialties (novel, nonfiction book, cookbook, etc.). An author may also be referred to as a bestseller if their work often appears in a list. Well-known bestseller list
+n this article, I’m going to introduce you to a data science project on Amazon bestselling books analysis with the Python programming language. The data I’ll be using in this data science project is a dataset of Amazon’s 50 Best Books between 2009 and 2019.
+In the data set, Genre is a categorical dummy variable; Fiction and non-fiction. Non-fiction was a more popular category than fiction, each year from 2009 to 2019. Of the 351 unique books, 54.4% were non-fiction and 45.6% were fiction.
+
+The highest fraction (66%) of non-fiction books were sold in 2015 and the lowest for fiction books. For fiction books, the highest fraction (48%) of books were sold in 2009, 2013 and 2017, and the lowest for non-fiction books.
+The bestselling authors are selected based on their appearances in the top 50 bestselling books each year, from 2009 to 2019. Now let’s look at the top 10 bestselling authors of both fiction and non-fiction categories.Top-selling authors are selected based on their appearances in the top 50 best-selling books each year. The number of appearances includes duplicate book names
